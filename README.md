@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProyectoAngular
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.10.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Proyecto-Angular
+Repositorio para Angular
+>>>>>>> fd78a8e098916ff2fc245ca709f14ac85ba87ae9
